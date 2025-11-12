@@ -1,5 +1,5 @@
 #FROM ubuntu:20.04 
-FROM python:slim-bullseye
+FROM python:bullseye
 
 MAINTAINER Walt Howd <walthowd@gmail.com>
 
